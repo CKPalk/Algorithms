@@ -3,4 +3,4 @@ Implementing popular computer science algorithms. All code pieces are written in
 
 ### Algorithms:
 * Sorting
-	* Quicksort (soon to be a link)
+	* [Quicksort](Source/Sorting/Quicksort/quicksort.c "Quicksort implementation")
