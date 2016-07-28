@@ -6,6 +6,7 @@
 #include <unistd.h>
 
 #include "Selection/selection_sort.h"
+#include "Quick/quick_sort.h"
 
 
 
